@@ -1,32 +1,55 @@
+# Projeto 1 - Inequality At Stake
 
-# FECAP - Fundação de Comércio Álvares Penteado
-
-<p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
-</p>
-
-# Inequality At Stake
-
-## Grupo1
-
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Breno Costa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Bruno Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Mellina Bizinoto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Thiffany Morais</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
-## Descrição
+## FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
+  </a>
 </p>
 
+---
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+## Nome do Projeto
+**Inequality At Stake**
+
+---
+
+## Integrantes do Grupo
+
+- [Breno Costa](#)
+- [Bruno Souza](#)
+- [Mellina Bizinoto](#)
+- [Thiffany Morais](#)
+
+---
+
+## Professores Orientadores
+
+- [Dr. Victor Von Doom](https://www.linkedin.com/in/victorbarq/)
+- [Me. Saitama](https://www.linkedin.com/in/victorbarq/)
+- [Dr. Strange](https://www.linkedin.com/in/victorbarq/)
+- [Me. Yoda](https://www.linkedin.com/in/victorbarq/)
+- [Dr. Gero](https://www.linkedin.com/in/victorbarq/)
+
+---
+
+## 🎮 Descrição do Jogo
+
+<p align="center">
+  <img src="../Projeto4/Through_Their_Eyes/Assets/Images_Game/Image_Game.jpg" alt="Through Their Eyes - Jogo" border="0">
+  <br>
+  Design by <a href="https://github.com/Marcos-Yogi">Marcos Hiroshi</a>
+</p>
+
+"Inequality at Stake" é um jogo desenvolvido através da Unity que diz respeito à "Redução da Desigualdade Social". Como o tema é algo que abrange muitas outras coisas, decidimos criar um jogo com mini-games, esses trazem os problemas que as pessoas enfrentam devido a Desigualdade Social de uma forma lúdica e dinâmica.
+
+Até agora os mini-games são:
+1. **Study Or Work**: Reflete sobre estudantes que precisam vivenciar esses dois estados: Estudo ou Trabalho?
+2. **Virus Survive**: Uma mecânica parecida com Meteor, nele o Player deve desviar dos vírus e pegar kits médicos, fazendo menção à dificuldade ao acesso a saúde.
+3. **Climb To Glory**: Assim como as pessoas marginalizadas que não possuem recursos para ascender na vida (Educação, Transporte e Tecnologia), você deve sair do chão e passar por uma série de obstáculos representando como é difícil para essas pessoas subirem na vida.
+
+---
 
 ## 🛠 Estrutura de pastas
 
