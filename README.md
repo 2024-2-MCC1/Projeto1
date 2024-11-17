@@ -62,30 +62,21 @@ Até agora os mini-games são:
 /Telas        - Script das telas
 ```
 
-## 🛠 Instalação
+## ⚙ Instalação
 
-<b>Android:</b>
+1. **Baixe o projeto:**
+   Clique em **Code > Download ZIP**:
+   
+2. **Abra o Unity Hub:**
+   - Clique em **Add** e ache a pasta onde o projeto foi baixado.
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+3. **Configure a cena inicial:**
+   - Vá para a pasta `/Scenes` e abra a cena principal (`Menu Principal`).
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+4. **Execute o jogo:**
+   - Pressione o botão **Play** no editor do Unity.
 
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+---
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -100,12 +91,13 @@ make install
 npm test
 Coloque código do prompt de comnando se for necessário
 ```
+
 ---
 ## 📋 Licença/License
 
 A licença desse projeto é a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>.
 
-
+---
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
