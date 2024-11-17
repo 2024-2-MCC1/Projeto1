@@ -18,8 +18,8 @@
 ## Integrantes do Grupo
 
 - [Breno Costa](#)
-- [Bruno Souza](#)
-- [Mellina Bizinoto](#)
+- [Bruno Souza](https://www.linkedin.com/in/bruno-souza-lima-448850263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mellina Bizinoto](https://br.linkedin.com/in/mellina-de-p%C3%A1dua-618081227)
 - [Thiffany Morais](#)
 
 ---
