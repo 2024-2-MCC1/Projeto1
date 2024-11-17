@@ -120,7 +120,7 @@ make install
 npm test
 Coloque código do prompt de comnando se for necessário
 ```
-
+---
 ## 📋 Licença/License
 
 A licença desse projeto é a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>.
