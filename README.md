@@ -26,11 +26,11 @@
 
 ## Professores Orientadores
 
-- [Dr. Victor Von Doom](https://www.linkedin.com/in/victorbarq/)
-- [Me. Saitama](https://www.linkedin.com/in/victorbarq/)
-- [Dr. Strange](https://www.linkedin.com/in/victorbarq/)
-- [Me. Yoda](https://www.linkedin.com/in/victorbarq/)
-- [Dr. Gero](https://www.linkedin.com/in/victorbarq/)
+- [Fabiano Alves Onça](https://www.linkedin.com/in/victorbarq/)
+- [Victor Bruno Alexander Rosetti de Quiroz](https://www.linkedin.com/in/victorbarq/)
+- [João Pedro da Costa Pinto](https://www.linkedin.com/in/victorbarq/)
+- [Adriano Felix Valente](https://www.linkedin.com/in/victorbarq/)
+- [Francisco de Souza Escobar](https://www.linkedin.com/in/victorbarq/)
 
 ---
 
