@@ -61,6 +61,7 @@ Até agora os mini-games são:
 /Imagens      - Imagens das telas de instrução e menu principal
 /Telas        - Script das telas
 ```
+--- 
 
 ## ⚙ Instalação
 
