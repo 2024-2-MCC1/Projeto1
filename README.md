@@ -39,7 +39,7 @@
 <p align="center">
   <img src="../Projeto4/Through_Their_Eyes/Assets/Images_Game/Image_Game.jpg" alt="Through Their Eyes - Jogo" border="0">
   <br>
-  Design by <a href="https://github.com/Marcos-Yogi">Marcos Hiroshi</a>
+  Design by <a href="https://br.linkedin.com/in/mellina-de-p%C3%A1dua-618081227">Mellina Bizinoto</a>
 </p>
 
 "Inequality at Stake" é um jogo desenvolvido através da Unity que diz respeito à "Redução da Desigualdade Social". Como o tema é algo que abrange muitas outras coisas, decidimos criar um jogo com mini-games, esses trazem os problemas que as pessoas enfrentam devido a Desigualdade Social de uma forma lúdica e dinâmica.
@@ -122,6 +122,8 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
+
+A licença desse projeto é a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>.
 
 
 ## 🎓 Referências
